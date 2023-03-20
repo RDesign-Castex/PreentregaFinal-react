@@ -1,0 +1,14 @@
+.Footer-container{
+    background: linear-gradient(150deg , #0337f4  , #32ea09be);
+    margin-top: 10rem;
+    min-height: 20vh;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.Footer-container img {
+    max-height: 50px;
+}  
